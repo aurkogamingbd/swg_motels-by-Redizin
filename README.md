@@ -2,7 +2,7 @@
 A modern, immersive motel system for FiveM with full business management, instance support, and configurable features — powered by ox_lib.
 
 
-pv: https://drive.google.com/file/d/1L4al2AkQR6y_1zyVP3M2auLWXGS78cfr/view?usp=sharing
+pv: 
 
 ✅ Features
 🏢 Player Motel Business Management
